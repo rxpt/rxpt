@@ -38,7 +38,7 @@ const profile = {
 
 ## Featured Projects
 
-- 👨‍💻 Creator of [str-async-replace](https://github.com/rxpt/str-async-replace), , a mini-library simplifying asynchronous replacements.
+- 👨‍💻 Creator of [str-async-replace](https://github.com/rxpt/str-async-replace), a mini-library simplifying asynchronous replacements.
 
 ## Find Me in the Digital Galaxy
 
