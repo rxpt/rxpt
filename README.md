@@ -1,26 +1,27 @@
-# Hey there, I'm Braw! 🚀
+# Welcome to Xogum's Universe! 🚀
 
-What's up? I'm Valdir Ronis, a.k.a. Braw, a coding enthusiast navigating the tech universe with a cup of coffee in hand! ☕️ Currently, I'm pursuing a degree in Analysis and Systems Development at UNIASSELVI. I'm also on an exciting journey with Potência Tech by iFood and Oracle Next Education.
+Hey there, fellow explorer! I'm Valdir Ronis, but you can call me Xogum (think "Shogun" with an X). Armed with a trusty cup of coffee, I'm boldly navigating the boundless cosmos of technology with an insatiable passion for coding! ☕️ Currently, I'm sharpening my skills at UNIASSELVI, where I'm pursuing a degree in Analysis and Systems Development. Additionally, I'm embarked on an exhilarating journey with Oracle Next Education (ONE).
 
-## Exploring the Cosmos
+## Journey into the Cosmos
 
 ```javascript
-const braw = {
+const profile = {
   realName: "Valdir Ronis",
+  nickName: "Xogum",
   pronouns: ["He", "Him"],
   personality: "ESTJ",
   education: "UNIASSELVI - Analysis and Systems Development",
-  hobbies: ["Gaming", "Tech exploration", "Singing"],
+  hobbies: ["Gaming", "Tech Exploration", "Singing"],
   skills: ["CSS3", "HTML5", "JavaScript", "MongoDB", "MySQL", "NodeJS", "PHP", "React", "React Native", "TypeScript"],
 }
 ```
 
-- 🚀 Always on the lookout for new coding challenges and elegant solutions.
+- 🚀 Always on the lookout for new coding challenges and crafting elegant solutions.
 - 💻 Crafting digital realms with PHP, JavaScript, TypeScript, and more.
-- 🎮 Gaming guru diving into TFT and Overwatch adventures.
-- 🎤 Hobby: Singing (in the shower and virtual karaoke!).
+- 🎮 Gaming enthusiast diving into adventures in TFT and Overwatch.
+- 🎤 Hobbyist Singer (both in the shower and at virtual karaoke nights!).
 
-## Skills
+## Skills at a Glance
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brawVR&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" align="right">
 
@@ -35,27 +36,27 @@ const braw = {
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Projects
+## Featured Projects
 
-- 👨‍💻 Creator of the mini-library [str-async-replace](https://github.com/rxog/str-async-replace), facilitating efficient asynchronous replacements.
+- 👨‍💻 Creator of [str-async-replace](https://github.com/rxpt/str-async-replace), , a mini-library simplifying asynchronous replacements.
 
-## Socials
+## Find Me in the Digital Galaxy
 
-[youtube-url]: https://www.youtube.com/@brawVR
+[youtube-url]: https://www.youtube.com/@xogum
 [youtube-badge]: https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white
 
-[tiktok-url]: https://www.tiktok.com/@brawVR
+[tiktok-url]: https://www.tiktok.com/@xogumon
 [tiktok-badge]: https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white
 
-[instagram-url]: https://instagram.com/brawVR
+[instagram-url]: https://instagram.com/xogumon
 [instagram-badge]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
 
 [![TikTok][tiktok-badge]][tiktok-url]
 [![YouTube][youtube-badge]][youtube-url]
 [![Instagram][instagram-badge]][instagram-url]
 
-## Let's Launch Together 🚀
+## Ready for Liftoff? 🚀
 
-Excited about coding, games, or just want to chat? Drop me a message, and let's embark on a cosmic conversation! 🚀✨
+Excited about coding, gaming, or just want to chat? Don't hesitate to reach out, and let's embark on an exhilarating journey through the cosmic realms of technology! 🚀✨
 
-[![WakaTime](https://wakatime.com/badge/user/d91b665e-c663-47e8-8ec6-53cdbc729a68.svg?style=for-the-badge)](https://wakatime.com/@braw)
+[![WakaTime](https://wakatime.com/badge/user/d91b665e-c663-47e8-8ec6-53cdbc729a68.svg?style=for-the-badge)](https://wakatime.com/@rx)
