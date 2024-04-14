@@ -1,8 +1,8 @@
-# Welcome to Xogum's Universe! 🚀
+# Welcome to Xogum's Dojo! ⚔️
 
-Hey there, fellow explorer! I'm Valdir Ronis, but you can call me Xogum (think "Shogun" with an X). Armed with a trusty cup of coffee, I'm boldly navigating the boundless cosmos of technology with an insatiable passion for coding! ☕️ Currently, I'm sharpening my skills at UNIASSELVI, where I'm pursuing a degree in Analysis and Systems Development. Additionally, I'm embarked on an exhilarating journey with Oracle Next Education (ONE).
+Greetings, fellow warrior! I am Valdir Ronis, known as Xogum (imagine "Shogun" with an X). Armed with a trusty cup of matcha, I fearlessly traverse the boundless world of technology with an unwavering passion for coding! 🍵 Presently, I hone my skills at UNIASSELVI, pursuing a degree in Analysis and Systems Development. Additionally, I am on an epic quest with Oracle Next Education (ONE).
 
-## Journey into the Cosmos
+## Journey into the Bushido
 
 ```javascript
 const profile = {
@@ -16,10 +16,10 @@ const profile = {
 }
 ```
 
-- 🚀 Always on the lookout for new coding challenges and crafting elegant solutions.
-- 💻 Crafting digital realms with PHP, JavaScript, TypeScript, and more.
-- 🎮 Gaming enthusiast diving into adventures in TFT and Overwatch.
-- 🎤 Hobbyist Singer (both in the shower and at virtual karaoke nights!).
+- ⚔️ Always seeking new coding challenges and crafting refined solutions.
+- 🖥️ Crafting digital domains with PHP, JavaScript, TypeScript, and beyond.
+- 🎮 Gaming enthusiast embarking on quests in TFT and Overwatch.
+- 🎤 Hobbyist Bard (whether in the dojo or at virtual karaoke nights!).
 
 ## Skills at a Glance
 
@@ -40,7 +40,7 @@ const profile = {
 
 - 👨‍💻 Creator of [str-async-replace](https://github.com/rxpt/str-async-replace), a mini-library simplifying asynchronous replacements.
 
-## Find Me in the Digital Galaxy
+## Find Me in the Digital Realm
 
 [youtube-url]: https://www.youtube.com/@xogum
 [youtube-badge]: https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white
@@ -55,8 +55,8 @@ const profile = {
 [![YouTube][youtube-badge]][youtube-url]
 [![Instagram][instagram-badge]][instagram-url]
 
-## Ready for Liftoff? 🚀
+## Ready for Battle? ⚔️
 
-Excited about coding, gaming, or just want to chat? Don't hesitate to reach out, and let's embark on an exhilarating journey through the cosmic realms of technology! 🚀✨
+Eager about coding, gaming, or simply want to chat? Feel free to reach out, and let's embark on a thrilling journey through the mystical realms of technology! ⚔️✨
 
 [![WakaTime](https://wakatime.com/badge/user/d91b665e-c663-47e8-8ec6-53cdbc729a68.svg?style=for-the-badge)](https://wakatime.com/@rx)
