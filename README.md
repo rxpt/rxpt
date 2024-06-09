@@ -81,19 +81,19 @@ Desenvolvedor full-stack com mais de 10 anos de experiência em criação de sol
 
 ## Certificações e Cursos
 
-- **React Native: Do Zero ao Avançado** — Udemy (2021)
-- **Flutter** — Udemy (2021)
-- **Python Basics** — Lets Code (2021)
-- **Entendendo TypeScript** — Udemy (2023)
-- **GraphQL: Criando APIs Profissionais e Flexíveis** — Udemy (2023)
-- **Design Thinking, UX e Metodologias Ágeis** — Descomplica (2023)
-- **HTML, CSS e Bootstrap** — Descomplica (2023)
-- **Javascript** — Descomplica (2023)
-- **React** — Descomplica (2023)
-- **C#: Do Básico ao Avançado** — Udemy (2023)
-- **Formação Node.js** — Udemy (2023)
-- **Empreendedorismo, Agilidade E Protagonismo Na Carreira** — Oracle Next Education / Alura + Oracle (2024)
+- **Empreendedorismo, Agilidade e Protagonismo na Carreira** — Oracle Next Education / Alura + Oracle (2024)
 - **Formação JAVA (OO, APIs, Spring, Lambdas)** — Oracle Next Education / Alura + Oracle (2024)
+- **Formação Node.js** — Udemy (2023)
+- **C#: Do Básico ao Avançado** — Udemy (2023)
+- **React** — Descomplica (2023)
+- **Javascript** — Descomplica (2023)
+- **HTML, CSS e Bootstrap** — Descomplica (2023)
+- **Design Thinking, UX e Metodologias Ágeis** — Descomplica (2023)
+- **GraphQL: Criando APIs Profissionais e Flexíveis** — Udemy (2023)
+- **Entendendo TypeScript** — Udemy (2023)
+- **Python Basics** — Lets Code (2021)
+- **Flutter** — Udemy (2021)
+- **React Native: Do Zero ao Avançado** — Udemy (2021)
 
 ---
 
