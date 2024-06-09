@@ -1,62 +1,116 @@
-# Welcome to Xogum's Dojo! ⚔️
+# Valdir Ronis
 
-Greetings, fellow warrior! I am Valdir Ronis, known as Xogum (imagine "Shogun" with an X). Armed with a trusty cup of matcha, I fearlessly traverse the boundless world of technology with an unwavering passion for coding! 🍵 Presently, I hone my skills at UNIASSELVI, pursuing a degree in Analysis and Systems Development. Additionally, I am on an epic quest with Oracle Next Education (ONE).
+Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Sempre buscando novas oportunidades para aplicar minhas habilidades e contribuir para o sucesso de projetos desafiadores.
 
-## Journey into the Bushido
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rxpt/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/rxpt)
 
-```javascript
-const profile = {
-  realName: "Valdir Ronis",
-  nickName: "Xogum",
-  pronouns: ["He", "Him"],
-  personality: "ESTJ",
-  education: "UNIASSELVI - Analysis and Systems Development",
-  hobbies: ["Gaming", "Tech Exploration", "Singing"],
-  skills: ["CSS3", "HTML5", "JavaScript", "MongoDB", "MySQL", "NodeJS", "PHP", "React", "React Native", "TypeScript"],
-}
-```
+---
 
-- ⚔️ Always seeking new coding challenges and crafting refined solutions.
-- 🖥️ Crafting digital domains with PHP, JavaScript, TypeScript, and beyond.
-- 🎮 Gaming enthusiast embarking on quests in TFT and Overwatch.
-- 🎤 Hobbyist Bard (whether in the dojo or at virtual karaoke nights!).
+**Localização:** Fortaleza, CE, Brasil  
+**Telefone:** (85) 99929-2118  
+**Email:** [contato@rx.dev.br](mailto:contato@rx.dev.br)  
+**Disponibilidade:** Aberto para oportunidades de trabalho remoto e freelance.  
 
-## Skills at a Glance
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxpt&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" align="right">
+## Perfil Profissional
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+Desenvolvedor full-stack com mais de 10 anos de experiência em criação de soluções de software personalizadas. Especialista em PHP, MySQL, JavaScript (Node.js, React.js, Next.js) e MongoDB, focado em exceder expectativas através de desenvolvimento ágil e inovação constante. Experiência sólida em projetos de grande complexidade, desde a concepção até a entrega, com ênfase em desempenho e escalabilidade.
 
-## Featured Projects
+---
 
-- 👨‍💻 Creator of [str-async-replace](https://github.com/rxpt/str-async-replace), a mini-library simplifying asynchronous replacements.
+## Competências Principais
 
-## Find Me in the Digital Realm
+- **Desenvolvimento Back-end:** PHP (Vanilla, Laravel), Java, C#, JavaScript (Node.js)
+- **Desenvolvimento Front-end:** JavaScript, React.js, HTML, CSS, Bootstrap
+- **Bancos de Dados:** MySQL, MongoDB, PostgreSQL
+- **Computação em Nuvem:** AWS, Azure, Google Cloud
+- **Desenvolvimento Mobile:** React Native
+- **Gerenciamento de Projetos:** Independente e colaborativo
 
-[youtube-url]: https://www.youtube.com/@xogum
-[youtube-badge]: https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white
+---
 
-[tiktok-url]: https://www.tiktok.com/@xogumon
-[tiktok-badge]: https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white
+## Experiência Profissional
 
-[instagram-url]: https://instagram.com/xogumon
-[instagram-badge]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
+### Desenvolvedor Full Stack - Freelancer
+**Julho de 2020 - Presente**
 
-[![TikTok][tiktok-badge]][tiktok-url]
-[![YouTube][youtube-badge]][youtube-url]
-[![Instagram][instagram-badge]][instagram-url]
+- Projeto e implementação de sistemas complexos e bancos de dados de alta performance.
+- Desenvolvimento de aplicativos móveis e web com PHP, MySQL, React Native, JavaScript (Node.js) e MongoDB.
+- Gerenciamento autônomo de projetos, garantindo comunicação eficaz com os clientes para entrega de soluções personalizadas.
 
-## Ready for Battle? ⚔️
+### Desenvolvedor Full Stack - Murau (Plante Amor Confecções LTDA)
+**Março de 2020 - Julho de 2020**
 
-Eager about coding, gaming, or simply want to chat? Feel free to reach out, and let's embark on a thrilling journey through the mystical realms of technology! ⚔️✨
+- Revitalização de interface de loja virtual usando VTEX, aprimorando a experiência do usuário.
+- Desenvolvimento de aplicativo de vendas mobile integrado com sistemas TOTVS (ERP) e VTEX, utilizando React Native e MongoDB.
+- Condução de todas as fases do projeto, demonstrando liderança técnica.
 
-[![WakaTime](https://wakatime.com/badge/user/d91b665e-c663-47e8-8ec6-53cdbc729a68.svg?style=for-the-badge)](https://wakatime.com/@rx)
+### Desenvolvedor Full Stack - Grupo Biagi (Box Supreme e Lider Veículos)
+**Setembro de 2019 - Fevereiro de 2020**
+
+- Migração do sistema de vendas de ASP para PHP e MariaDB em ambiente AWS EC2.
+- Manutenção e aprimoramento do sistema de gerenciamento de tempo da loja Boxsupreme.
+
+### Desenvolvedor PHP Full Stack - Raízes Soluções
+**Março de 2019 - Agosto de 2019**
+
+- Manutenção de site de e-commerce e desenvolvimento de APIs robustas com PHP e MySQL.
+- Desenvolvimento de aplicativo móvel com React Native.
+
+### Suporte Técnico - Freelancer
+**Dezembro de 2008 - Fevereiro de 2019**
+
+- Suporte técnico especializado para supermercados e lojas.
+- Desenvolvimento de aplicativos personalizados para automação de processos.
+
+### Analista de Dados / Suporte Técnico - Hipermercadinho Local (Jerry Adriano Lopes ME)
+**Outubro de 2007 - Novembro de 2008**
+
+- Gerenciamento de banco de dados com mais de 100.000 produtos.
+- Manutenção de pontos de venda e computadores.
+
+---
+
+## Formação Acadêmica
+
+- **Graduação em Análise e Desenvolvimento de Sistemas - UNIASSELVI**  
+  **Fevereiro de 2024 - Julho de 2026** (cursando)
+
+---
+
+## Certificações e Cursos
+
+- **React Native: Do Zero ao Avançado** — Udemy (2021)
+- **Flutter** — Udemy (2021)
+- **Python Basics** — Lets Code (2021)
+- **Entendendo TypeScript** — Udemy (2023)
+- **GraphQL: Criando APIs Profissionais e Flexíveis** — Udemy (2023)
+- **Design Thinking, UX e Metodologias Ágeis** — Descomplica (2023)
+- **HTML, CSS e Bootstrap** — Descomplica (2023)
+- **Javascript** — Descomplica (2023)
+- **React** — Descomplica (2023)
+- **C#: Do Básico ao Avançado** — Udemy (2023)
+- **Formação Node.js** — Udemy (2023)
+- **Empreendedorismo, Agilidade E Protagonismo Na Carreira** — Oracle Next Education / Alura + Oracle (2024)
+- **Formação JAVA (OO, APIs, Spring, Lambdas)** — Oracle Next Education / Alura + Oracle (2024)
+
+---
+
+## Projetos Notáveis
+
+### Sistema de Gerenciamento de Tempo de Serviço
+- **Tecnologias:** PHP (Laravel), MariaDB
+- **Descrição:** Desenvolvimento de um sistema completo para gerenciamento de tempo com foco em eficiência e escalabilidade.
+
+### Aplicativo de Vendas Mobile
+- **Tecnologias:** React Native, Node.js, MongoDB
+- **Descrição:** Aplicativo de vendas integrado com sistemas ERP e plataformas de e-commerce, melhorando a experiência do usuário e a gestão de vendas.
+
+### Migração de Sistema de Vendas
+- **Tecnologias:** PHP (Laravel), MariaDB, AWS EC2
+- **Descrição:** Modernização de sistema legado de vendas para um ambiente mais escalável e eficiente.
+
+---
+
+**Atualizado em:** Junho de 2024
