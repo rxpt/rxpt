@@ -9,7 +9,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Sempre buscando
 **Localização:** Fortaleza, CE, Brasil  
 **Telefone:** (85) 99929-2118  
 **Email:** [contato@rx.dev.br](mailto:contato@rx.dev.br)  
-**Disponibilidade:** Aberto para oportunidades de trabalho remoto e freelance.  
+**Disponibilidade:** Aberto para oportunidades de trabalho.  
 
 ---
 
